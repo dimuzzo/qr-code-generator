@@ -32,6 +32,7 @@ Choose your preferred method: browser-based convenience or command-line simplici
   <img src="assets/example-screen.png" alt="QR Code Generator Web App" width="350">
   <p><i>Modern and intuitive interface</i></p>
 </div>
+
 ---
 
 ## 🐍 Python Script
