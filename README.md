@@ -4,7 +4,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/dimuzzo/qr-code-generator?style=flat-square&logo=github&label=Repo%20Size)
 ![GitHub stars](https://img.shields.io/github/stars/dimuzzo/qr-code-generator?style=flat-square&logo=github&label=Stars)
 
-Generate QR codes instantly with our modern web app or Python script. Choose your preferred method - browser-based convenience or command-line simplicity.
+Generate QR codes instantly with my modern Web app or Python script. 
+
+Choose your preferred method: browser-based convenience or command-line simplicity.
 
 ---
 
