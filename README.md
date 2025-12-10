@@ -62,7 +62,9 @@ pip install "qrcode[pil]"
 ## 📂 Project Structure
 ```
 qr-code-generator/           
-├── index.html         # Web app (standalone, no dependencies)
+├── index.html         # Main HTML structure
+├── style.css          # Styles and animations
+├── script.js          # Logic and DOM manipulation
 ├── generator.py       # Python CLI script
 ├── qr-code.png        # Generated QR code (created at runtime)
 ├── README.md          # This file
@@ -75,7 +77,7 @@ qr-code-generator/
 ## 🛠️ Technologies
 
 **Web App:**
-- Pure HTML, CSS, and JavaScript
+- Pure HTML, CSS, and JavaScript (Modular structure)
 - QRCode.js library
 - Hosted on GitHub Pages
 
