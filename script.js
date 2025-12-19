@@ -26,7 +26,6 @@ function generateQRCode() {
         return;
     }
 
-    // Pulisce il QR code precedente se presente
     qrcodeDiv.innerHTML = '';
 
     qrCodeInstance = new QRCode(qrcodeDiv, {
