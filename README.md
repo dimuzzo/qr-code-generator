@@ -10,19 +10,19 @@ Choose your preferred method: browser-based convenience or command-line simplici
 
 ---
 
-## 🌐 Web App (Recommended)
+## Web App (Recommended)
 
 **Try it live:** [https://dimuzzo.github.io/qr-code-generator](https://dimuzzo.github.io/qr-code-generator)
 
-### ✨ Features
-- 🎨 Modern, responsive design with lime green accents
-- 📱 Works on desktop, tablet, and mobile
-- ⚡ Instant QR code generation
-- 💾 Direct download as PNG
-- 🔒 100% client-side - your data never leaves your browser
-- ✅ URL validation
+### Features
+- Modern, responsive design with lime green accents
+- Works on desktop, tablet, and mobile
+- Instant QR code generation
+- Direct download as PNG
+- 100% client-side - your data never leaves your browser
+- URL validation
 
-### 🚀 Quick Start
+### Quick Start
 1. Visit the web app
 2. Enter your URL
 3. Click "Generate QR Code"
@@ -35,11 +35,11 @@ Choose your preferred method: browser-based convenience or command-line simplici
 
 ---
 
-## 🐍 Python Script
+## Python Script
 
 For those who prefer command-line tools or need to integrate QR generation into automated workflows.
 
-### 📋 Prerequisites
+### Prerequisites
 
 Ensure you have Python installed. You will need to install the `qrcode` library with image support (`pillow`).
 
@@ -49,7 +49,7 @@ Run the following command in your terminal:
 pip install "qrcode[pil]"
 ```
 
-### 🚀 How to Run
+### How to Run
 1. Execute the script:
     ```bash
     python generator.py
@@ -59,7 +59,7 @@ pip install "qrcode[pil]"
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 qr-code-generator/           
 ├── index.html         # Main HTML structure
@@ -74,10 +74,10 @@ qr-code-generator/
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 **Web App:**
-- Pure HTML, CSS, and JavaScript (Modular structure)
+- HTML, CSS, and JavaScript (Modular structure)
 - QRCode.js library
 - Hosted on GitHub Pages
 
@@ -88,13 +88,13 @@ qr-code-generator/
 
 ---
 
-## 📝 License
+## License
 
 This project is open source and available for personal and commercial use.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/dimuzzo/qr-code-generator/issues).
 
